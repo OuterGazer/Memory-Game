@@ -14,3 +14,6 @@ Extensions from the example are:
 - Card flipping animations.
 - Tracking of both turns and scoring.
 - A miriad of different creative common card decks. A basic learning of GIMP allowed me to resize the cards for my needs.
+
+To play the game download the zip file and double click on the executable.
+Alternatively, the game can be played online at https://sharemygame.com/@OuterGazer/memory-card-game
